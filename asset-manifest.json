@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rubber-duck-auth/static/css/main.54d06e89.css",
-    "main.js": "/rubber-duck-auth/static/js/main.73215a5c.js",
+    "main.css": "/rubber-duck-auth/static/css/main.80bed34d.css",
+    "main.js": "/rubber-duck-auth/static/js/main.8ef860c6.js",
     "index.html": "/rubber-duck-auth/index.html",
-    "main.54d06e89.css.map": "/rubber-duck-auth/static/css/main.54d06e89.css.map",
-    "main.73215a5c.js.map": "/rubber-duck-auth/static/js/main.73215a5c.js.map"
+    "main.80bed34d.css.map": "/rubber-duck-auth/static/css/main.80bed34d.css.map",
+    "main.8ef860c6.js.map": "/rubber-duck-auth/static/js/main.8ef860c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.54d06e89.css",
-    "static/js/main.73215a5c.js"
+    "static/css/main.80bed34d.css",
+    "static/js/main.8ef860c6.js"
   ]
 }
