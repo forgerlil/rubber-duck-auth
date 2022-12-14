@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rubber-duck-auth/static/css/main.54d06e89.css",
+    "main.js": "/rubber-duck-auth/static/js/main.f743e09b.js",
+    "index.html": "/rubber-duck-auth/index.html",
+    "main.54d06e89.css.map": "/rubber-duck-auth/static/css/main.54d06e89.css.map",
+    "main.f743e09b.js.map": "/rubber-duck-auth/static/js/main.f743e09b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d06e89.css",
+    "static/js/main.f743e09b.js"
+  ]
+}
